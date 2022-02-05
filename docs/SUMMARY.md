@@ -116,7 +116,7 @@
 +   [如何在 Python 中反转一个数字](0115.md)
 +   [什么是 Python 中的对象](0116.md)
 +   [哪种是 Python 最快的实现](0117.md)
-+   [如何清除 Python 外壳](0118.md)
++   [如何清除 Python Shell](0118.md)
 +   [如何用 Python 创建数据帧](0119.md)
 +   [如何用 Python 开发游戏](0120.md)
 +   [如何在 Python 中安装 Tkinter](0121.md)
